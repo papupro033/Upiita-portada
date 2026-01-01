@@ -79,6 +79,5 @@ grid(
 pagebreak()
 doc
   }
-//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
 // PRUEBA 
 #show: upiita.with(title:[Titulo: texto largo para ver y un poco mas ],alumno: ("Perez Vazquez Arroyo","Rulfo Juan","Cervantes Miguel"),profesor :[Dr. Adrian Octavio Ramirez Morales],grupo: [3bm8],fecha: [1 de enero de 2026])
